@@ -1,0 +1,1 @@
+web: java -jar target/api-rest-nuvem-0.0.1-SNAPSHOT.jar
